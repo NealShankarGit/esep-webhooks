@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3j/xyMNj7x/SwKb358htjmfvi5Op+1qutL+1RpMZ3J1DEutUdfbePXzvH4URffFs802gn6IU3RdMHg89RYl1cg==",
+  "success": true,
+  "projectFilePath": "/Users/nealshankar/Desktop/Assignment9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/nealshankar/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/nealshankar/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/nealshankar/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
